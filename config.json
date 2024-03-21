@@ -2,4 +2,5 @@
   "ip": "127.0.0.1",
   "port": 65530,
   "rulePath": "/tmp/md5file.txt"
+  "crontabTime": "*/5 * * * *"
 }
